@@ -74,7 +74,8 @@ The circuit was implemented on a printed circuit board (PCB) optimized for:
 - compact layout
 - reliable signal acquisition
 
-![PCB Design](images/pcb_design.png)
+![PCB Design](Images/schematic.png)
+![PCB Design](Images/PCB.png)
 
 ---
 
@@ -84,7 +85,7 @@ The circuit was tested with ECG electrodes connected to a healthy subject.
 
 The output signal showed clean waveform characteristics suitable for digital processing.
 
-![ECG Signal](images/ecg_signal_test.png)
+![ECG Signal](Images/Scope.png)
 
 The maximum measured signal voltage was approximately **2.16V**, which is compatible with typical **3.3V microcontroller inputs**.
 
@@ -105,7 +106,7 @@ This signal conditioning system can be integrated into:
 
 The full research paper describing this work is available here:
 
-📄 [Read the paper](paper/emg_ecg_signal_conditioning_circuit.pdf)
+📄 [Read the paper](Paper2.pdf)
 
 ---
 
